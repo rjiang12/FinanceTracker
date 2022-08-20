@@ -1,5 +1,4 @@
 # FinanceTracker
 Finance tracker
 
-
-![](./client/yeticrab.jpeg)
+Finance tracker for all your incomes and expenses. 
